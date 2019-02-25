@@ -2,4 +2,9 @@ nips-papers/
 .ipynb_checkpoints/
 
 process_data.*
+lda_process_data.*
+journal_reccomendation_abstract.*
+rough_sketch.*
+Untitled.*
+log_file/
 
