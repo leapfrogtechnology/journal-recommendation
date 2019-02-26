@@ -1,6 +1,7 @@
 nips-papers/
 .ipynb_checkpoints/
 log_file/
+images/
 process_data.*
 journal_reccomendation_abstract.*
 
