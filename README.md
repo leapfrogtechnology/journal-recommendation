@@ -6,7 +6,7 @@
 2. Install wordcloud
 3. Install tensorflow 
 
-## Prerequistes:
+## Prerequisites:
 1. Datasets:
 link - https://archive.ics.uci.edu/ml/datasets/NIPS+Conference+Papers+1987-2015
 2. Tensorflow installation in anaconda:
@@ -14,7 +14,12 @@ conda install -c conda-forge tensorflow
 3. Wordcloud installation:
 conda install -c conda-forge wordcloud 
 4. nltk download:
-conda install -c anaconda nltk 
+conda install -c anaconda nltk
+
+## Tensorboard Command and localhost :
+1. tensorboard --logdir=file_path --port=5000
+2. http://localhost:5000
+  
 
 ##  Description:
 This a unsupervised reccomendation system of the Scientific Journals. Firstly we have imported the libraries and dataset processed the raw text and saved the process dataset into a new csv file.All this operation is done in journal_reccomendataion_1.ipynb
