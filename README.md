@@ -23,5 +23,8 @@ On the second file, operations like removing missing values takes place.Then we 
 
 We have used  Count vectorizer to create a word vector which is fed into Latent Dirichlet Allocation,which gives us likelihood of the document to occur in the given topic cluster.Then we try to find the root mean square error to predict between the given document with all other document as a result we get the R.M.S Error for every comparation. We sort the given error in ascending order and reccomend 10 least errorneous title as a reference for the research paper along with error value.
 
-## Example:
+## Result:
 ![crop](https://user-images.githubusercontent.com/35564460/53400116-49c56000-39d5-11e9-8589-7a7ed4ec4b72.png)
+
+## Contacts:
+(For any queries: [mai_to](mail_to: sharmaanix@gmail.com))
