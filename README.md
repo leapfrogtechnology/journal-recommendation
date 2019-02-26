@@ -22,3 +22,6 @@ This a unsupervised reccomendation system of the Scientific Journals. Firstly we
 On the second file, operations like removing missing values takes place.Then we do Exploratory data analysis of the data set like word cloud clustering and 2D t-SNE and also used pyLDAvis to visualize the cluster and most occuring word and to predict the suitable number of cluster.
 
 We have used  Count vectorizer to create a word vector which is fed into Latent Dirichlet Allocation,which gives us likelihood of the document to occur in the given topic cluster.Then we try to find the root mean square error to predict between the given document with all other document as a result we get the R.M.S Error for every comparation. We sort the given error in ascending order and reccomend 10 least errorneous title as a reference for the research paper along with error value.
+
+## Example:
+!['/home/anish/Pictures]('crop.png')
