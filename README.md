@@ -1,6 +1,6 @@
-** Scientific Journal Reccomendation **
+**  Scientific Journal Reccomendation **
 
-** Description**
+**  Description**
 This a unsupervised reccomendation system of the Scientific Journals.Firstly
 we have imported the libraries and dataset processed the raw text and saved 
 the process dataset into a new csv file.All this operation is done in journal_reccomendataion_1.ipynb .
