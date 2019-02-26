@@ -1,11 +1,12 @@
+
 #  Scientific Journal Reccomendation 
 
-## Installation 
-1.Download NLTK word corpus
-2.Install wordcloud
-3.Install tensorflow 
+## Installation: 
+* 1.Download NLTK word corpus
+* 2.Install wordcloud
+* 3.Install tensorflow 
 
-##  Description
+##  Description:
 This a unsupervised reccomendation system of the Scientific Journals.Firstly
 we have imported the libraries and dataset processed the raw text and saved 
 the process dataset into a new csv file.All this operation is done in journal_reccomendataion_1.ipynb .
@@ -17,4 +18,5 @@ word and to predict the suitable number of cluster.
 
 We have used  Count vectorizer to create a word vector which is fed into Latent
 Dirichlet Allocation,which gives us likelihood of the document to occur in 
-the given topic cluster.Then we 
+the given topic cluster.Then we try to find the root mean square error to predict
+between the given document  with all other document and predict the  
