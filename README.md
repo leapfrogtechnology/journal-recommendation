@@ -27,4 +27,4 @@ We have used  Count vectorizer to create a word vector which is fed into Latent 
 ![crop](https://user-images.githubusercontent.com/35564460/53400116-49c56000-39d5-11e9-8589-7a7ed4ec4b72.png)
 
 ## Contacts:
-(For any queries: [mai_to](mail_to: sharmaanix@gmail.com))
+(For any queries mail_to: sharmaanix@gmail.com)
