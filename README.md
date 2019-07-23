@@ -1,5 +1,5 @@
 
-#  Scientific Journal Reccomendation:
+#  Scientific Journal Recommendation:
 
 ## Installation: 
 1. Download NLTK word corpus
